@@ -3,40 +3,54 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? Spending the time to get shit done. I'm open sourcing these goals for accessibility across computers I use, transparency, accountability, and versioning.
+Why? I've always been really interested in the concept of lifelogging, and this will be my first foray into it I guess? The original template (and idea) comes from @una. Also there are lots of interesting studies on accountability, and I have a life goals Trello board and a bunch of Workflowy and Todoist lists already, so this is a logical addition.
 
-# Overarching Goals
+# Overarching Goals for November 2015 - November 2016: [Code Everyday](http://www.opentagclosetag.com/push-code-everyday/)
+
 1. Contribute to Open Source
 2. Write more blog posts
-3. Use _______ more
-4. Get better at _______
-5. Learn about _______
-6. Be kind
+3. Launch my developer career
+4. Get better at Javascript
+5. Learn to knit
+6. Get stronger
+7. Be kind to yourself
+8. Cultivate daily habits (reading: actual books and coding articles, coding, meditating, journalling, podcasts and mood tracking)
+9. Give a talk (or talks!)
+10. Do more community stuff
 
-# November 00, 2014
+# November 23, 2015
 
-### This Week's Goal: Be Awesome.
+### This Week's Goal: Push code everyday for seven days.
 
 ## Things I'll Do This Week:
-- [x] Play with puppies
-- [ ] Watch 2 videos from my content list about ______
+
+- [ ] Start working on Twitter Windchimes
+- [ ] Complete at least one section each from Treehouse and Udacity
 - [ ] Write a blog post
-- [ ] Continue learning about narwhals
-- [ ] Create slides for my talk about music
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [ ] Check if anyone wants any of my clutter
+- [ ] Return a coat
+- [ ] Make a visual CV page for my blog
+- [ ] Put a conversion point on 'hire me' on my blog
+- [ ] Find a non-overwhelming way to track my daily habits
+- [ ] Finish reading the book on habits that @iteles recommended
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
+- [ ] Go to the weighlifting club on Thursday
 
-### Things I'll Do This Month: November 2014
-- [ ] Read a book
-- [x] Create a website for my dog
-- [ ] Teach my dog how to fetch me beer
-- [ ] Build a castle out of cardboard
-- [ ] Submit a proposal for a thing
+### Things I'll Do In The Future:
+
+- [ ] Finish [Lorem Blankum](https://github.com/oluoluoxenfree/lorem-blankum)
+- [ ] Start Wearther
+- [ ] Finish Stacked Up
+- [ ] Finish the CV Creator
+- [ ] Start Tweequencer
+- [ ] Finish Facebook Mosaic
+- [ ] Come up with better project names for some of those
 - [ ] Come up with a new side project
+- [ ] Get a provisional license
+- [ ] Get British Citizenship
+- [ ] Start transferring articles to resources section
+- [ ] Transfer Front End Developer skills checklist to here
+- [ ] Do more research into personal curriculums
+- [ ] Have another meetup for Code Camp Community
 
-### Backlog: Side Projects :)
-- [ ] Work on [my cool project I forgot about](http://google.com)
 
-### Backlog: Code Things I Want to Do/Play With
-1. Create yeoman generator
-2. Build a robot that takes over the world
