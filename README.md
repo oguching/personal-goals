@@ -52,5 +52,5 @@ Why? I've always been really interested in the concept of lifelogging, and this 
 - [ ] Transfer Front End Developer skills checklist to here
 - [ ] Do more research into personal curriculums
 - [ ] Have another meetup for Code Camp Community
-
+- [ ] Learn enough stretches for a daily stretching routine
 
