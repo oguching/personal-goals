@@ -24,14 +24,14 @@ Why? I've always been really interested in the concept of lifelogging, and this 
 
 ## Things I'll Do This Week:
 
-- [ ] Start working on Twitter Windchimes
+- [x] Start working on Twitter Windchimes
 - [ ] Complete at least one section each from Treehouse and Udacity
 - [ ] Write a blog post
 - [ ] Check if anyone wants any of my clutter
 - [ ] Return a coat
 - [ ] Make a visual CV page for my blog
 - [ ] Put a conversion point on 'hire me' on my blog
-- [ ] Find a non-overwhelming way to track my daily habits
+- [x] Find a non-overwhelming way to track my daily habits
 - [ ] Finish reading the book on habits that @iteles recommended
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
 - [ ] Go to the weighlifting club on Thursday
