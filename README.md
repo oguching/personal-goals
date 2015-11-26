@@ -29,7 +29,7 @@ Why? I've always been really interested in the concept of lifelogging, and this 
 - [ ] Write a blog post
 - [ ] Check if anyone wants any of my clutter
 - [ ] Return a coat
-- [ ] Make a visual CV page for my blog
+- [X] Make a visual CV page for my blog
 - [ ] Put a conversion point on 'hire me' on my blog
 - [x] Find a non-overwhelming way to track my daily habits
 - [ ] Finish reading the book on habits that @iteles recommended
