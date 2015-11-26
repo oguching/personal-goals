@@ -1,5 +1,34 @@
 # Books to Read
 
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net/)
-- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)s
-- [ ] That Book That I Have a Physical Copy of Counts, Too
+- [ ] [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+- [ ] [You Don't Know Javascript books](https://github.com/getify/You-Dont-Know-JS)
+- [ ] [Pro Git](http://git-scm.com/book/en/v2)
+- [ ] [Human Javascript](http://read.humanjavascript.com/)
+- [ ] Professional Node.js
+- [ ] Smashing Node.js
+- [ ] The Computer Science Handbook
+- [ ] Test Driven Javascript Development
+- [ ] Javascript: The Good Parts
+- [ ] Cracking the Coding Interview
+- [ ] Javascript Testing
+- [ ] Javascript: The Definitive Guide
+- [ ] JavaScript Patterns
+- [ ] Maintainable JavaScript
+- [ ] Learning JavaScript Design Patterns
+- [ ] Speaking JavaScript
+- [ ] Effective Javascript
+- [ ] Soft Skills
+- [ ] The Mythical Man Month
+- [ ] Clean Code
+- [ ] Javascript Web Applications
+- [ ] Data Structures and Algorithms with Javascript
+- [ ] D3.js in Action
+- [ ] CSS Secrets
+- [ ] The Art and Science of CSS
+- [ ] Beautiful Javascript
+- [ ] New Programmer's Survival Manual
+- [ ] Object Orientated Javascript
+- [ ] Secrets of the Javascript Ninja
+- [ ] All the A Book Apart books
+
