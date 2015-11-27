@@ -26,7 +26,7 @@ Why? I've always been really interested in the concept of lifelogging, and this 
 
 - [x] Start working on Twitter Windchimes
 - [ ] Complete at least one section each from Treehouse and Udacity
-- [ ] Write a blog post
+- [x] Write a blog post
 - [ ] Check if anyone wants any of my clutter
 - [ ] Return a coat
 - [X] Make a visual CV page for my blog
