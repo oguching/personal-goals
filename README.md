@@ -25,9 +25,10 @@ Why? I've always been really interested in the concept of lifelogging, and this 
 ## Things I'll Do This Week:
 
 - [x] Start working on Twitter Windchimes
-- [ ] Complete at least one section each from Treehouse and Udacity
+- [x] Complete at least one section Treehouse
+- [ ] Complete at least one section from Udemy
 - [x] Write a blog post
-- [ ] Check if anyone wants any of my clutter
+- [x] Check if anyone wants any of my clutter
 - [ ] Return a coat
 - [X] Make a visual CV page for my blog
 - [ ] Put a conversion point on 'hire me' on my blog
@@ -44,13 +45,22 @@ Why? I've always been really interested in the concept of lifelogging, and this 
 - [ ] Finish the CV Creator
 - [ ] Start Tweequencer
 - [ ] Finish Facebook Mosaic
+- [ ] Finish trans twitter sentiment thing
 - [ ] Come up with better project names for some of those
 - [ ] Come up with a new side project
 - [ ] Get a provisional license
 - [ ] Get British Citizenship
 - [ ] Start transferring articles to resources section
 - [ ] Transfer Front End Developer skills checklist to here
-- [ ] Do more research into personal curriculums
+- [x] Do more research into personal curriculums
 - [ ] Have another meetup for Code Camp Community
 - [ ] Learn enough stretches for a daily stretching routine
+- [ ] Finish Exercism: anagram
+
+####Javascripther
+- [ ] Invite 10 friends and 10 “celebrities” in your field to javascripthers
+- [ ] Line up AMAs with three different people for your community.
+- [ ] Start a recurring monthly question thread (e.g. “What are you currently working on?”).
+- [ ] Find three complementary channels on which to promote your community.
+- [ ] Plug your community into some kind of auto-tweeting service (such as Buffer).
 

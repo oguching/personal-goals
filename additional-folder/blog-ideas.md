@@ -22,3 +22,6 @@
 - [ ] setting up javascripthers
 - [ ] zsh and getting boss at command line (aliases maybe?)
 - [ ] setting up and choosing a text editor
+- [ ] Giving talks
+- [ ] New year's resolutions
+

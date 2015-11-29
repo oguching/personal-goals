@@ -18,7 +18,7 @@
 - [ ] Learning JavaScript Design Patterns
 - [ ] Speaking JavaScript
 - [ ] Effective Javascript
-- [ ] Soft Skills
+- [x] Soft Skills
 - [ ] The Mythical Man Month
 - [ ] Clean Code
 - [ ] Javascript Web Applications
@@ -31,4 +31,8 @@
 - [ ] Object Orientated Javascript
 - [ ] Secrets of the Javascript Ninja
 - [ ] All the A Book Apart books
+- [ ] Technical Blogging
+- [ ] The Healthy Programmer
+- [ ] Confessions of a public speaker
+- [ ] slide:ology
 
