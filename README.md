@@ -3,64 +3,39 @@ Personal Goals
 
 Personal goals made open source.
 
-Why? I've always been really interested in the concept of lifelogging, and this will be my first foray into it I guess? The original template (and idea) comes from @una. Also there are lots of interesting studies on accountability, and I have a life goals Trello board and a bunch of Workflowy and Todoist lists already, so this is a logical addition.
+Why? 
+In 2017 I've decided to go back to basics and learn JavaScript in depth using @ericelliott's guide to learning JavaScript.
 
-# Overarching Goals for November 2015 - November 2016: [Code Everyday](http://www.opentagclosetag.com/push-code-everyday/)
+I have a problem staying focused, the JavaScipt ecosystem is full of shiny new libraries and framework, it's easy to lose focus and try them all without learning JavaScript deeply. So this is a tool to help me focus on one thing for as long as possible.
+
+# Overarching Goal for January - December 2017: Back to Basics
 
 1. Contribute to Open Source
-2. Write more blog posts
+2. Write more blog posts (More than once a month)
 3. Launch my developer career
-4. Get better at Javascript
-5. Learn to knit
-6. Get stronger
-7. Be kind to yourself
-8. Cultivate daily habits (reading: actual books and coding articles, coding, meditating, journalling, podcasts and mood tracking)
-9. Give a talk (or talks!)
-10. Do more community stuff
+4. Get better at JavaScript
+5. Cultivate daily habits (reading: actual books and coding articles, coding, journalling, podcasts?)
+6. Give a talk (or talks!)
+7. Do more community stuff
 
-# November 23, 2015
+# January 9, 2017
 
 ### This Week's Goal: Push code everyday for seven days.
 
 ## Things I'll Do This Week:
 
-- [x] Start working on Twitter Windchimes
-- [x] Complete at least one section Treehouse
-- [ ] Complete at least one section from Udemy
-- [x] Write a blog post
-- [x] Check if anyone wants any of my clutter
-- [ ] Return a coat
-- [X] Make a visual CV page for my blog
-- [ ] Put a conversion point on 'hire me' on my blog
-- [x] Find a non-overwhelming way to track my daily habits
-- [ ] Finish reading the book on habits that @iteles recommended
-- [x] Read [this blog post](http://una.github.io/personal-goals-guide/)
-- [ ] Go to the weighlifting club on Thursday
+- [ ] Do research on ES6 Modules
+- [ ] Write blog post on ES6 Modules
+- [ ] Complete Chapter 3 of Eloquent JavaScript: functions
+- [ ] Create Github repo for each exercise in Eloquent JavaScript
+- [ ] Read [JS Modules](https://github.com/oguching/frontend-links/blob/master/README.md#js-modules)
 
 ### Things I'll Do In The Future:
 
-- [ ] Finish [Lorem Blankum](https://github.com/oluoluoxenfree/lorem-blankum)
-- [ ] Start Wearther
-- [ ] Finish Stacked Up
-- [ ] Finish the CV Creator
-- [ ] Start Tweequencer
-- [ ] Finish Facebook Mosaic
-- [ ] Finish trans twitter sentiment thing
-- [ ] Come up with better project names for some of those
-- [ ] Come up with a new side project
-- [ ] Get a provisional license
-- [ ] Get British Citizenship
-- [ ] Start transferring articles to resources section
-- [ ] Transfer Front End Developer skills checklist to here
-- [x] Do more research into personal curriculums
-- [ ] Have another meetup for Code Camp Community
-- [ ] Learn enough stretches for a daily stretching routine
-- [ ] Finish Exercism: anagram
-
-####Javascripther
-- [ ] Invite 10 friends and 10 “celebrities” in your field to javascripthers
-- [ ] Line up AMAs with three different people for your community.
-- [ ] Start a recurring monthly question thread (e.g. “What are you currently working on?”).
-- [ ] Find three complementary channels on which to promote your community.
-- [ ] Plug your community into some kind of auto-tweeting service (such as Buffer).
-
+- [ ] Complete Free Code Camp JS track
+- [ ] Start work on 'blabber'
+- [ ] Finish Tomayon
+- [ ] Finish Riser
+- [ ] Prepare an app to present at GDG 2017
+- [ ] Configure Arch Linux on computer
+- [ ] Finish Exercism JavaScript track
