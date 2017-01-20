@@ -39,3 +39,4 @@ I have a problem staying focused, the JavaScipt ecosystem is full of shiny new l
 - [ ] Prepare an app to present at GDG 2017
 - [ ] Configure Arch Linux on computer
 - [ ] Finish Exercism JavaScript track
+- [ ] Create daysSince() app 
