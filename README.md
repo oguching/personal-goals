@@ -4,7 +4,7 @@ Personal Goals
 Personal goals made open source.
 
 Why? 
-In 2017 I've decided to go back to basics and learn JavaScript in depth using @ericelliott's guide to learning JavaScript.
+In 2017 I've decided to go back to basics and learn JavaScript in depth using @ericelliott's [guide](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.6xl31hdeb) to learning JavaScript.
 
 I have a problem staying focused, the JavaScipt ecosystem is full of shiny new libraries and framework, it's easy to lose focus and try them all without learning JavaScript deeply. So this is a tool to help me focus on one thing for as long as possible.
 
