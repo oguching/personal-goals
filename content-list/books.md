@@ -6,6 +6,9 @@
 - [ ] [Pro Git](http://git-scm.com/book/en/v2)
 - [ ] [Human Javascript](http://read.humanjavascript.com/)
 - [ ] Professional Node.js
+- [ ] [JavaScript Allongé (ES5)](https://leanpub.com/javascript-allonge/read) 
+- [ ] [JavaScript Allongé the Sixth Edition](https://leanpub.com/javascriptallongesix/read)
+- [ ] [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/pr01.html)
 - [ ] Smashing Node.js
 - [ ] The Computer Science Handbook
 - [ ] Test Driven Javascript Development
@@ -16,9 +19,9 @@
 - [ ] JavaScript Patterns
 - [ ] Maintainable JavaScript
 - [ ] Learning JavaScript Design Patterns
-- [ ] Speaking JavaScript
+- [ ] [Speaking JavaScript](http://speakingjs.com/es5/index.html)
 - [ ] Effective Javascript
-- [x] Soft Skills
+- [ ] Soft Skills
 - [ ] The Mythical Man Month
 - [ ] Clean Code
 - [ ] Javascript Web Applications
@@ -30,9 +33,5 @@
 - [ ] New Programmer's Survival Manual
 - [ ] Object Orientated Javascript
 - [ ] Secrets of the Javascript Ninja
-- [ ] All the A Book Apart books
 - [ ] Technical Blogging
 - [ ] The Healthy Programmer
-- [ ] Confessions of a public speaker
-- [ ] slide:ology
-
