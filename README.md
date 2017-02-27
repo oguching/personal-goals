@@ -40,3 +40,4 @@ I have a problem staying focused, the JavaScipt ecosystem is full of shiny new l
 - [ ] Configure Arch Linux on computer
 - [ ] Finish Exercism JavaScript track
 - [ ] Create daysSince() app 
+- [ ] Create a Decimal to Hex converter 
