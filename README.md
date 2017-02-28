@@ -41,3 +41,4 @@ I have a problem staying focused, the JavaScipt ecosystem is full of shiny new l
 - [ ] Finish Exercism JavaScript track
 - [ ] Create daysSince() app 
 - [ ] Create a Decimal to Hex converter 
+- [ ] Do a series on common search algorithms (BST, Binary Search...)  
