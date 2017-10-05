@@ -42,4 +42,5 @@ I have a problem staying focused, the JavaScipt ecosystem is full of shiny new l
 - [ ] Create daysSince() app 
 - [ ] Create a Decimal to Hex converter 
 - [ ] Do a series on common search algorithms (BST, Binary Search...)  
-- [ ] Time waster extension that suggests similar sites to goes there on click
+- [ ] Time waster extension that suggests similar sites to goes there on click  
+- [ ] A cli tool that gets the latest npm version on all branches (stable, canary...)
